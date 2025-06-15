@@ -1,0 +1,13 @@
+# Dependências para o projeto de análise de algoritmos de busca
+# Instalar com: pip install -r requirements.txt
+
+# Análise numérica e manipulação de dados
+numpy>=1.21.0
+pandas>=1.3.0
+
+# Visualização de dados
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Utilitários opcionais
+scipy>=1.7.0
